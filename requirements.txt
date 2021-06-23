@@ -1,0 +1,11 @@
+gunicorn==19.9.0
+Flask==1.0.2
+requests==2.22.0
+python-keycloak==0.16.0
+pyodbc==4.0.30
+pytest~=5.4.2
+xlsxwriter~=1.2.8
+openpyxl~=3.0.3
+pandas~=1.0.3
+Werkzeug~=1.0.1
+redis==3.5.3
